@@ -1,8 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Space+Mono:wght@400;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Nunito", sans-serif;
+  font-family: "Inconsolata", monospace;
 }
 
 main {
@@ -31,6 +33,7 @@ main {
 }
 
 .content {
+  font-family: "Space Mono", monospace;
   margin-left: 50px;
 }
 
